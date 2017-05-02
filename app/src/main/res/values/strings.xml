@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Persistence</string>
+    <string name="test_database_label">Test Database</string>
+    <string name="purge_database_label">Purge Database</string>
+
+    <string name="dismiss">Dismiss</string>
+</resources>
